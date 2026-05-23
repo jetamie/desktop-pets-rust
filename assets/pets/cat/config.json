@@ -1,0 +1,9 @@
+{
+  "name": "橘猫",
+  "size": 2048,
+  "frames": {
+    "idle": ["idle_1.png", "idle_2.png", "idle_3.png", "idle_4.png", "idle_5.png", "idle_6.png", "idle_7.png", "idle_8.png"],
+    "walk": ["walk_1.png", "walk_2.png", "walk_3.png", "walk_4.png", "walk_5.png"],
+    "jump": ["jump_1.png", "jump_2.png", "jump_3.png", "jump_4.png", "jump_5.png", "jump_6.png", "jump_7.png", "jump_8.png", "jump_9.png"]
+  }
+}

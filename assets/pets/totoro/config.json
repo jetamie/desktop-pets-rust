@@ -1,0 +1,9 @@
+{
+  "name": "龙猫",
+  "size": 960,
+  "frames": {
+    "idle": ["1.png", "2.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"],
+    "walk": ["1.png", "2.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"],
+    "jump": ["1.png", "2.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png", "9.png"]
+  }
+}
