@@ -10,7 +10,7 @@ use tauri::{
     WebviewUrl, WebviewWindowBuilder,
 };
 
-const ALLOWED_PETS: &[&str] = &["cat", "totoro", "totoro-v2"];
+const ALLOWED_PETS: &[&str] = &["cat", "totoro", "totoro-v2", "coal-balls"];
 
 fn resource_dir(app: &tauri::AppHandle) -> Result<std::path::PathBuf, String> {
     app.path()

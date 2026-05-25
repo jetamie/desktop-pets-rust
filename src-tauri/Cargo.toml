@@ -1,6 +1,6 @@
 [package]
 name = "desktop-pets-rust"
-version = "1.2.0"
+version = "1.2.1"
 description = "Tauri 桌面宠物应用"
 authors = [""]
 license = "ISC"

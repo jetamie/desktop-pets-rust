@@ -1,7 +1,7 @@
 import type { AppConfig, DesktopPetApi, EditableConfig, GameModeSchedule } from './types';
 
-const PET_OPTIONS = ['cat', 'totoro', 'totoro-v2'];
-const DEFAULT_PET = 'totoro-v2';
+const PET_OPTIONS = ['cat', 'totoro', 'totoro-v2', 'coal-balls'];
+const DEFAULT_PET = 'coal-balls';
 
 function toEditableConfig(config: AppConfig): EditableConfig {
   return {

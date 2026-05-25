@@ -1,7 +1,7 @@
 {
   "$schema": "../node_modules/@tauri-apps/cli/config.schema.json",
   "productName": "桌面宠物",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "identifier": "com.desktoppets.app",
   "build": {
     "beforeDevCommand": "npm run dev:frontend",

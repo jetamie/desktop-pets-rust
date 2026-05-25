@@ -1,0 +1,9 @@
+{
+  "name": "煤球",
+  "size": 1024,
+  "frames": {
+    "idle": ["idle_1.png", "idle_2.png", "idle_3.png", "idle_4.png", "idle_5.png", "idle_6.png", "idle_7.png", "idle_8.png", "idle_9.png", "idle_10.png", "idle_11.png", "idle_12.png", "idle_13.png"],
+    "walk": ["walk_1.png", "walk_2.png", "walk_3.png", "walk_4.png", "walk_5.png", "walk_6.png", "walk_7.png", "walk_8.png"],
+    "jump": ["walk-1_1.png", "walk-1_2.png", "walk-1_3.png", "walk-1_4.png", "walk-1_5.png", "walk-1_6.png", "walk-1_7.png", "walk-1_8.png", "walk-1_9.png", "walk-1_10.png", "walk-1_11.png"]
+  }
+}
